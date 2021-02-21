@@ -1,0 +1,80 @@
+﻿1
+00:00:08,433 --> 00:00:11,333
+Hello, my name is Pavlina Todorova and today I am going to show you how to draw a smile emoji with Inkscape.
+
+2
+00:00:11,333 --> 00:00:14,266
+Hello, my name is Pavlina Todorova and today I am going to show you how to draw a smile emoji with Inkscape.
+
+3
+00:00:14,266 --> 00:00:19,699
+So at first when you open inkscape you will see the white page that we use for painting.
+
+4
+00:00:19,700 --> 00:00:25,333
+To create a smile emoji click on the Circle from the Tool box on the left and fill it with yellow color. 
+
+5
+00:00:25,333 --> 00:00:27,933
+
+
+6
+00:00:27,933 --> 00:00:33,499
+For better shaping use the Control bar on the top to set the size and the coordinates of the object.
+
+7
+00:00:40,500 --> 00:00:47,800
+To draw an eye create an ellipse. Fill it with brown color and set the size and the coordinates. 
+
+8
+00:00:47,800 --> 00:00:47,833
+
+
+9
+00:01:00,000 --> 00:01:04,366
+Then again create another ellipse but place it horizontal. 
+
+10
+00:01:07,566 --> 00:01:11,566
+Use the Path from the Menu and click Difference to cut the eye. 
+
+11
+00:01:12,666 --> 00:01:17,632
+Now make Duplicate to draw the other eye and set its coordinates. 
+
+12
+00:01:23,266 --> 00:01:26,799
+Let’s continue with the mouth. 
+
+13
+00:01:29,266 --> 00:01:37,632
+Create an ellipse. Fill it with red color and set the width and height to be perfect for a smile. 
+
+14
+00:01:42,400 --> 00:01:46,133
+Then create another ellipse.
+
+15
+00:01:47,266 --> 00:01:52,566
+Place it on the red one and make their difference to get the smile.
+
+16
+00:01:59,666 --> 00:02:02,666
+The perfect emoji has white teeth.
+
+17
+00:02:02,666 --> 00:02:07,232
+Click on the Pen Tool and make a straight line in the center of the smile. 
+
+18
+00:02:09,166 --> 00:02:13,166
+With the help of the Node Tool pull the straight line down. 
+
+19
+00:02:13,566 --> 00:02:17,699
+Then fill the first part of the mouth with white color.
+
+20
+00:02:29,100 --> 00:02:32,100
+Now the smile emoji is ready. 
+
